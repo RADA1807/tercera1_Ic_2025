@@ -10,7 +10,7 @@
     <menu>
     <div class="menu-up">
         <a href="./">   
-            <img src="./Images/Rocket.png" alt=""height="50">
+            <img src="./Images/Rocket.png" alt=""height="55">
         </a> 
     </div>
 <div class="menu-down">
@@ -27,10 +27,10 @@
     <div class="menu-derecha">
     <a href="./">   
         <img src="./Images/Mail.png" alt=""height="30">
-        <img src="./Images/Languages1.png" alt=""height="30">
-        <img src="./Images/h0o47b6r.png" alt=""height="30">
-        <img src="./Images/mxxaw5jj.png" alt=""height="30">
-        <img src="./Images/Whatsapp.jpg" alt=""height="30">
+        <img src="./Images/processed_image.png" alt=""height="30">
+        <img src="./Images/Full screen.png" alt=""height="30">
+        <img src="./Images/Notificaciones.png" alt=""height="30">
+        <img src="./Images/Whatsapp.png" alt=""height="30">
         <img src="./Images/Facebook.png" alt=""height="30">
     </a> 
    </div>
