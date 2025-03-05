@@ -2,7 +2,7 @@ console.log('Cargando Acordión');
 
 const dataAccordion = [
     {
-        title: "Nuevos lazamientos",
+        title: "Nuevos lanzamientos",
         desc: "Ofrecemos lo último en video juegos.",
     },
     {
@@ -24,7 +24,7 @@ const dataAccordion = [
             dataAccordion.map(function (item, index) {
                 document
                     .querySelector('.main-accordion-container')
-                    .insertAdjacentHTML('beforeend', _self.tplAccordionItem(item));
+                    .insertAdjacentHTML('beforeend', _self.tplAccordionItem(item, index));
             });
         },
 
