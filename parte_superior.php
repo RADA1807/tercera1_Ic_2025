@@ -2,6 +2,7 @@
 <html lang="Spanish">
 
 <head>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta charset="utf-8">
     <meta name="Proyecto Tercera" content="Proyecto Tercera">
     <link rel="stylesheet" href="./css/main.css">
@@ -10,7 +11,7 @@
 <menu>
     <div class="menu-up">
         <a href="./">   
-            <img src="./Images/Rocket.png" alt=""height="55">
+            <img src="./Images/Rocket.png" alt="" height="55">
         </a> 
     </div>
     <div class="menu-down">
